@@ -1,0 +1,12 @@
+.currencies_rate {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .currencies_rate__wrapper {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+  }
+}
